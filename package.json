@@ -1,0 +1,26 @@
+{
+  "name": "terminal-alerts",
+  "version": "0.0.1",
+  "description": "Cross platform TERMINAL Alerts with colors & colored symbols for success, info, warning, error. Works on macOS, Linux, and Windows.",
+  "main": "index.js",
+  "files": [
+		"index.js"
+	],
+  "keywords": [
+		"terminal-alerts",
+		"terminal",
+		"alerts"
+	],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+		"name": "Debapriya Majumder",
+		"email": "guddumajumder75@gmail.com"
+	},
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "log-symbols": "^4.1.0"
+  }
+}
