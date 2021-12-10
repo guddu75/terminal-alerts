@@ -11,6 +11,10 @@
 		"terminal",
 		"alerts"
 	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guddu75/terminal-alerts.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
